@@ -1,0 +1,271 @@
+
+/* backgrounds */
+
+.dark-blue {
+  background-color: #051367;
+  color: #fff;
+}
+
+.light-blue {
+  background-color: #DFF6FF;
+  color: #051367;
+}
+
+.offset {
+  background-color: #fff;
+  color:#051367;
+}
+
+.section-padding {
+  padding: 10% 5% 13%;
+  min-height: 100vh;
+  min-width: 70vw;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+#title {
+  padding: 3% 5%;
+}
+
+/* navbar */
+
+.nav-item {
+  padding: 0 10px;
+}
+
+.nav-link {
+  font-size: 20px;
+}
+
+.nav-link:hover {
+  color: #ff66c4;
+}
+
+/* Title Section */
+
+.title-heading {
+  font-family: 'DM Serif Display', serif;
+  font-size: 100px;
+  padding: 20% 0 2%;
+}
+
+.title-subheading {
+  font-family: 'Space Mono', monospace;
+  font-size: 35px;
+  line-height: 1.5;
+}
+
+.title-minorheading {
+  font-family: 'Space Mono', monospace;
+  font-size: 20px;
+  line-height: 2;
+}
+
+/* About */
+.about-heading {
+  font-family: 'DM Serif Display', serif;
+  font-size: 100px;
+}
+
+.about-text {
+  font-family: 'Space Mono', monospace;
+  font-size: 20px;
+  padding-top: 5%;
+  padding: 5% 5% 0 0;
+  line-height: 1.8;
+}
+
+.about-link {
+  color: #051367;
+  font-family: 'Space Mono', monospace;
+}
+
+.about-link:hover {
+  color:#ff66c4;
+}
+
+#bookCarousel {
+  height:50vh;
+  width: 50vh;
+  margin: 5% 5% 0 10%;
+}
+
+.books-carousel {
+  height: 100%;
+  width: 100%;
+  border-radius: 30px;
+}
+
+.book-img {
+  width: 100%;
+  height: 100%;
+
+}
+
+/* Experience Section */
+
+.exp-heading {
+  font-family: 'DM Serif Display', serif;
+  font-size: 80px;
+  margin-top: 20%;
+  padding-right: 50px;
+}
+
+.exp-bio {
+  font-family: 'Space Mono', monospace;
+  font-size: 20px;
+  padding: 3% 7%;
+  overflow: auto;
+  height: 600px;
+  margin: 20% 0 0;
+}
+
+.exp-bio-header {
+  font-family: 'Space Mono', monospace;
+  font-weight:bold;
+  font-size: 20px;
+  color: #051367;
+}
+
+.exp-bio-header:hover {
+  color: #ff66c4;
+}
+
+.experience-section {
+  border-left: 3px solid #051367;
+  padding-left: 10%;
+}
+
+/* Projects Section */
+.projects-title {
+  font-family: 'DM Serif Display', serif;
+  font-size: 40px;
+  margin-top: 70px;
+}
+
+.project-cards {
+  margin: 5% 0 0;
+  overflow: auto;
+  color: black;
+}
+
+.project-card {
+  border-width: 0;
+}
+
+.card-title-mod {
+  display: block;
+  text-align: center;
+  margin: auto;
+  font-family: 'Space Mono', monospace;
+  font-weight: bold;
+}
+
+.project-bio {
+  font-family: 'Space Mono', monospace;
+  line-height: 1.5;
+  color: black;
+}
+
+.click-logo {
+  color: #051367;
+  font-size: 30px;
+  padding: 3%;
+}
+
+.click-logo:hover {
+  color: #ff66c4;
+}
+
+
+
+/* Testimonials */
+
+#testimonialCarousel {
+  padding: 7% 15%;
+  display: block;
+  min-height: 600px;
+  padding: auto;
+}
+
+.testimonial-padding {
+  margin: 7% 5%;
+  border-radius: 30px;
+}
+
+.carousel-item {
+  text-align: center;
+}
+
+.testimonial-text {
+  font-family: 'Space Mono', monospace;
+  font-size: 25px;
+  line-height: 1.8;
+}
+
+.testimonial-highlight {
+  color: #ff66c4;
+  font-size: 30px;
+  font-weight: bold;
+
+}
+
+.giver {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+}
+
+.giver-pos {
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+  font-size: 18px;
+}
+
+
+/* CTA */
+.cta-heading {
+  font-family: 'DM Serif Display', serif;
+  font-size: 80px;
+  padding: 20% 0 2%;
+}
+
+.cta-subheading {
+  font-family: 'Space Mono', monospace;
+  font-size: 35px;
+  line-height: 1.5;
+}
+
+.cta-link {
+  font-family: 'Open Sans', sans-serif;
+  text-decoration: underline;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #fff;
+}
+
+.cta-link:hover {
+  color: #ff66c4;
+}
+
+.pink-text {
+  color: #ff66c4;
+}
+
+.footnote {
+  padding: 5% 0 0;
+  font-family: 'Space Mono', monospace;
+}
+
+/* phone screen */
+@media (max-width: 700px) {
+
+.title-heading {
+  font-size: 80px;
+}
+
+
+
+}
