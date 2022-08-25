@@ -345,7 +345,7 @@
   .exp-bio-header {
     font-family: 'Space Mono', monospace;
     font-weight:bold;
-    font-size: 40px;
+    font-size: 35px;
     color: #051367;
   }
   
@@ -418,6 +418,44 @@
       font-family: 'Open Sans', sans-serif;
       font-style: italic;
       font-size: 16px;
+    }
+
+    .cta-heading {
+      font-family: 'DM Serif Display', serif;
+      font-size: 60px;
+      padding: 20% 0 2%;
+    }
+    
+    .cta-subheading {
+      font-family: 'Space Mono', monospace;
+      font-size: 30px;
+      line-height: 1.5;
+    }
+    
+    .cta-link {
+      font-family: 'Open Sans', sans-serif;
+      text-decoration: underline;
+      font-size: 15px;
+      line-height: 1.5;
+      color: #fff;
+    }
+    
+    .cta-link:hover {
+      color: #ff66c4;
+    }
+    
+    .pink-text {
+      color: #ff66c4;
+    }
+    
+    .footnote {
+      padding: 5% 0 0;
+      font-family: 'Space Mono', monospace;
+    }
+    
+    .copyright {
+      padding-top: 3%;
+      text-align: center;
     }
   
   } 
