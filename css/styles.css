@@ -281,7 +281,7 @@
   .title-heading {
     font-family: 'DM Serif Display', serif;
     font-size: 100px;
-    padding: 50% 0 2%;
+    padding: 15% 0 2%;
   }
   
   .title-subheading {
@@ -292,7 +292,7 @@
   
   .title-minorheading {
     font-family: 'Space Mono', monospace;
-    font-size: 25px;
+    font-size: 15px;
     line-height: 2;
   }
   
@@ -304,7 +304,7 @@
   .about-text {
     font-family: 'Space Mono', monospace;
     font-size: 20px;
-    padding-top: 5%;
+    padding-top: 10%;
     padding: 5% 5% 0 0;
     line-height: 1.8;
   }
