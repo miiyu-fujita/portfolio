@@ -267,10 +267,15 @@
   font-family: 'Space Mono', monospace;
 }
 
+.copyright {
+  padding-top: 3%;
+  text-align: center;
+}
+
 
 /* phone screen */
-/*
-@media only screen and (min-width: 600px){
+
+@media only screen and (max-width: 600px){
 
 
   .title-heading {
@@ -392,4 +397,3 @@
   
   } 
 
-*/
