@@ -1,4 +1,15 @@
+*::-webkit-scrollbar {
+  width: 5px;
+}
+*::-webkit-scrollbar-track {
+  background: #051367;
+}
 
+*::-webkit-scrollbar-thumb {
+  background-color: #DFF6FF;
+  border-radius: 3px;
+  border: 2px solid #DFF6FF;
+}
 
 /* backgrounds */
 
@@ -148,6 +159,12 @@
 }
 
 /* Projects Section */
+
+.skill-logo {
+  color: black;
+  font-size: 25px;
+  padding: 3%;
+}
 .projects-title {
   font-family: 'DM Serif Display', serif;
   font-size: 40px;
