@@ -1,2 +1,2 @@
 # my portfolio 👩🏻‍💻
-For more information about me, click [here](https://miiyu-fujita.netlify.app/)
+Previous portfolio website. For the updated version, see https://miiyu-fujita.netlify.app/
